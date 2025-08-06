@@ -1,0 +1,22 @@
+li {
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /*text-shadow: 4px -4px 10px;*/
+    color: black;
+}
+
+body {
+    color: black;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 150px;
+    height: 300px;
+    margin: auto;
+    padding: 10px;
+    background-color: rgb(128, 128, 128);
+    background-image: url(imagem/capa.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: auto;
+    -moz-background-origin: border-box;
+}
